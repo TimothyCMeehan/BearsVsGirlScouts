@@ -1,0 +1,17 @@
+/Users/timmeehan/Documents/Term5/GameImp/tcm32_Game2/Bears Vs BoyScouts/Temp/bin/Debug/UnityEngine.dll
+/Users/timmeehan/Documents/Term5/GameImp/tcm32_Game2/Bears Vs BoyScouts/Temp/bin/Debug/UnityEditor.dll
+/Users/timmeehan/Documents/Term5/GameImp/tcm32_Game2/Bears Vs BoyScouts/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/timmeehan/Documents/Term5/GameImp/tcm32_Game2/Bears Vs BoyScouts/Temp/bin/Debug/UnityEngine.PlaymodeTestsRunner.dll
+/Users/timmeehan/Documents/Term5/GameImp/tcm32_Game2/Bears Vs BoyScouts/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/timmeehan/Documents/Term5/GameImp/tcm32_Game2/Bears Vs BoyScouts/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/timmeehan/Documents/Term5/GameImp/tcm32_Game2/Bears Vs BoyScouts/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/timmeehan/Documents/Term5/GameImp/tcm32_Game2/Bears Vs BoyScouts/Temp/bin/Debug/UnityEngine.VR.dll
+/Users/timmeehan/Documents/Term5/GameImp/tcm32_Game2/Bears Vs BoyScouts/Temp/bin/Debug/Mono.Cecil.dll
+/Users/timmeehan/Documents/Term5/GameImp/tcm32_Game2/Bears Vs BoyScouts/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/timmeehan/Documents/Term5/GameImp/tcm32_Game2/Bears Vs BoyScouts/Temp/bin/Debug/Unity.DataContract.dll
+/Users/timmeehan/Documents/Term5/GameImp/tcm32_Game2/Bears Vs BoyScouts/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/timmeehan/Documents/Term5/GameImp/tcm32_Game2/Bears Vs BoyScouts/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/timmeehan/Documents/Term5/GameImp/tcm32_Game2/Bears Vs BoyScouts/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/timmeehan/Documents/Term5/GameImp/tcm32_Game2/Bears Vs BoyScouts/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/timmeehan/Documents/Term5/GameImp/tcm32_Game2/Bears Vs BoyScouts/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/timmeehan/Documents/Term5/GameImp/tcm32_Game2/Bears Vs BoyScouts/Temp/bin/Debug/Mono.Cecil.Mdb.dll
